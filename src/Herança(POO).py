@@ -52,4 +52,4 @@ s2.info()
 s3.info()
 s4.info()
 s5.info()
-s6.inf()
+s6.inf() #pegan
