@@ -14,8 +14,7 @@ def tabuada():
 
     #Mostrando na tela o resultado do número escolhido para a tabuada.
     print(f"Tabuada do número: {numero}")
-    for i in range(1, 10):
-        i += 1
+    for i in range(1, 11):
         print(f"{numero} X {i} = {numero * i}")
 
 #Looping while para verificar se o usúario ainda gostaria de ver outros números da tabuada, Se não, Finalizar o programa.
