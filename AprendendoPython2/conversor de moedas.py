@@ -4,3 +4,5 @@ dolar = moeda / 5.65 #infelizmente aumentar(ou felizmente diminuir) caso haja mu
 
 
 print(f"a conversão dá: {dolar:.2f} dolare(s)")
+
+#so tem essa formula mesmo
