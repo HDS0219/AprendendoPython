@@ -13,7 +13,7 @@ print(f"{num} X 9 = {num * 9}")
 print(f"{num} X 10 = {num * 10}")
 
 
-print("==========")
+print("=" * 12)
 #forma 2
 
 for i in range(1,11):
