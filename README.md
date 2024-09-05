@@ -3,4 +3,4 @@ Um repositório criado para documentar minha jornada e aprendizado em Python, fa
 
 ## Cursos que estou aprendendo:
 - Curso em vídeo
-- Jornada do dev
+- CFB cursos
